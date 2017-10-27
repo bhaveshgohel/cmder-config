@@ -1,2 +1,2 @@
-# cmder-config
+# Cmder Config
 My personal Cmder configuration.
